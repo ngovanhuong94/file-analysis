@@ -1,0 +1,22 @@
+{
+  "name": "file-metadata-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "connect-multiparty": "^2.0.0",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "8.4.0",
+    "npm": "5.3.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
